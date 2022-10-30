@@ -1,0 +1,10 @@
+limpa
+X=3.9
+Y=4.6
+Z=X*Y
+exibe(Z)
+exibeln(X)
+J=8.13
+A=Z*X+J
+B=Z*(X+J)
+exibeln(B)
